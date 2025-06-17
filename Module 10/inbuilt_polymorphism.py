@@ -1,3 +1,4 @@
+
 string_length=len("Hello Erin")
 list_length=len([1,27,378,5,14])
 tuple_length=len((1,18,23))
